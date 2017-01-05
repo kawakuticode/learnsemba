@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86"
+    api-level="25"
+    density="420dpi"
+    format="8"
+    plugin-version="2.2.3"
+    timestamp="114371949841429"
+    token="-5482317388325178396"
+    verifier="COMPATIBLE" >
+
+    <task
+        name="javac"
+        duration="391" />
+    <task
+        name="instant-run-dex"
+        duration="976" />
+    <task
+        name="instant-run-transform"
+        duration="36" />
+    <task
+        name="verifier"
+        duration="3" />
+
+    <artifact
+        location="/Users/russeliusernestius/Documents/Studioprojects/LearnSemba/app/build/intermediates/reload-dex/debug/classes.dex"
+        type="RELOAD_DEX" />
+
+    <build
+        timestamp="20166091394445"
+        verifier="BINARY_MANIFEST_FILE_CHANGE" >
+        <artifact
+            location="/Users/russeliusernestius/Documents/Studioprojects/LearnSemba/app/build/outputs/apk/app-debug.apk"
+            type="MAIN" />
+    </build>
+    <build
+        timestamp="114126643105531"
+        verifier="COLD_SWAP_REQUESTED" >
+        <artifact
+            location="/Users/russeliusernestius/Documents/Studioprojects/LearnSemba/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_8/classes.dex"
+            type="DEX" />
+    </build>
+    <build
+        timestamp="114307600797540"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="/Users/russeliusernestius/Documents/Studioprojects/LearnSemba/app/build/intermediates/builds/debug/114307600797540/classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="114371949841429"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="/Users/russeliusernestius/Documents/Studioprojects/LearnSemba/app/build/intermediates/reload-dex/debug/classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+
+</instant-run>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name" translatable="false">Learn Semba</string>
+    <string name="title_section1" translatable="false">Beginner</string>
+    <string name="title_section2" translatable="false">Intermediate</string>
+    <string name="title_section3" translatable="false">Confirmed</string>
+    <string name="title_section4" translatable="false">Videos</string>
+    <string name="title_section5" translatable="false">Musics</string>
+
+
+    <string name="musicx" translatable="false">Musics</string>
+    <string name="video" translatable="false">Music videos</string>
+    <string name="menu_settings" translatable="false">Settings </string>
+    <string name="todo" translatable="false">TODO</string>
+    <string name="title_activity_music_play">Musics</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_video_fragment">VideoFragment</string>
+
+</resources>

@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "/Users/russeliusernestius/Documents/Studioprojects/LearnSemba/app/build/intermediates/res/merged/debug/drawable-xxhdpi/pause.png",
+        "source": "/Users/russeliusernestius/Documents/Studioprojects/LearnSemba/app/src/main/res/drawable-xxhdpi/pause.png"
+    },
+    {
+        "merged": "/Users/russeliusernestius/Documents/Studioprojects/LearnSemba/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_launcher.png",
+        "source": "/Users/russeliusernestius/Documents/Studioprojects/LearnSemba/app/src/main/res/drawable-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/russeliusernestius/Documents/Studioprojects/LearnSemba/app/build/intermediates/res/merged/debug/drawable-xxhdpi/stop.png",
+        "source": "/Users/russeliusernestius/Documents/Studioprojects/LearnSemba/app/src/main/res/drawable-xxhdpi/stop.png"
+    },
+    {
+        "merged": "/Users/russeliusernestius/Documents/Studioprojects/LearnSemba/app/build/intermediates/res/merged/debug/drawable-xxhdpi/play.png",
+        "source": "/Users/russeliusernestius/Documents/Studioprojects/LearnSemba/app/src/main/res/drawable-xxhdpi/play.png"
+    },
+    {
+        "merged": "/Users/russeliusernestius/Documents/Studioprojects/LearnSemba/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_play_v.png",
+        "source": "/Users/russeliusernestius/Documents/Studioprojects/LearnSemba/app/src/main/res/drawable-xxhdpi/ic_play_v.png"
+    },
+    {
+        "merged": "/Users/russeliusernestius/Documents/Studioprojects/LearnSemba/app/build/intermediates/res/merged/debug/drawable-xxhdpi/musicplay.png",
+        "source": "/Users/russeliusernestius/Documents/Studioprojects/LearnSemba/app/src/main/res/drawable-xxhdpi/musicplay.png"
+    },
+    {
+        "merged": "/Users/russeliusernestius/Documents/Studioprojects/LearnSemba/app/build/intermediates/res/merged/debug/drawable-xxhdpi/konde2.png",
+        "source": "/Users/russeliusernestius/Documents/Studioprojects/LearnSemba/app/src/main/res/drawable-xxhdpi/konde2.png"
+    }
+]

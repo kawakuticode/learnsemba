@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/russeliusernestius/Documents/Studioprojects/LearnSemba/app/build/intermediates/res/merged/debug/drawable-xxxhdpi/musicplay.png",
+        "source": "/Users/russeliusernestius/Documents/Studioprojects/LearnSemba/app/src/main/res/drawable-xxxhdpi/musicplay.png"
+    },
+    {
+        "merged": "/Users/russeliusernestius/Documents/Studioprojects/LearnSemba/app/build/intermediates/res/merged/debug/drawable-xxxhdpi/pause.png",
+        "source": "/Users/russeliusernestius/Documents/Studioprojects/LearnSemba/app/src/main/res/drawable-xxxhdpi/pause.png"
+    },
+    {
+        "merged": "/Users/russeliusernestius/Documents/Studioprojects/LearnSemba/app/build/intermediates/res/merged/debug/drawable-xxxhdpi/ic_launcher.png",
+        "source": "/Users/russeliusernestius/Documents/Studioprojects/LearnSemba/app/src/main/res/drawable-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/russeliusernestius/Documents/Studioprojects/LearnSemba/app/build/intermediates/res/merged/debug/drawable-xxxhdpi/konde2.png",
+        "source": "/Users/russeliusernestius/Documents/Studioprojects/LearnSemba/app/src/main/res/drawable-xxxhdpi/konde2.png"
+    },
+    {
+        "merged": "/Users/russeliusernestius/Documents/Studioprojects/LearnSemba/app/build/intermediates/res/merged/debug/drawable-xxxhdpi/play.png",
+        "source": "/Users/russeliusernestius/Documents/Studioprojects/LearnSemba/app/src/main/res/drawable-xxxhdpi/play.png"
+    },
+    {
+        "merged": "/Users/russeliusernestius/Documents/Studioprojects/LearnSemba/app/build/intermediates/res/merged/debug/drawable-xxxhdpi/stop.png",
+        "source": "/Users/russeliusernestius/Documents/Studioprojects/LearnSemba/app/src/main/res/drawable-xxxhdpi/stop.png"
+    }
+]
