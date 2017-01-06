@@ -120,10 +120,6 @@
         "source": "/Users/russeliusernestius/Documents/Studioprojects/LearnSemba/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/drawable/abc_list_selector_holo_dark.xml"
     },
     {
-        "merged": "/Users/russeliusernestius/Documents/Studioprojects/LearnSemba/app/build/intermediates/res/merged/debug/drawable/arrow.png",
-        "source": "/Users/russeliusernestius/Documents/Studioprojects/LearnSemba/app/src/main/res/drawable/arrow.png"
-    },
-    {
         "merged": "/Users/russeliusernestius/Documents/Studioprojects/LearnSemba/app/build/intermediates/res/merged/debug/drawable/konde_player.jpg",
         "source": "/Users/russeliusernestius/Documents/Studioprojects/LearnSemba/app/src/main/res/drawable/konde_player.jpg"
     },

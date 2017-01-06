@@ -24,6 +24,10 @@
         "source": "/Users/russeliusernestius/Documents/Studioprojects/LearnSemba/app/src/main/res/drawable-xxhdpi/musicplay.png"
     },
     {
+        "merged": "/Users/russeliusernestius/Documents/Studioprojects/LearnSemba/app/build/intermediates/res/merged/debug/drawable-xxhdpi/arrow.png",
+        "source": "/Users/russeliusernestius/Documents/Studioprojects/LearnSemba/app/src/main/res/drawable-xxhdpi/arrow.png"
+    },
+    {
         "merged": "/Users/russeliusernestius/Documents/Studioprojects/LearnSemba/app/build/intermediates/res/merged/debug/drawable-xxhdpi/konde2.png",
         "source": "/Users/russeliusernestius/Documents/Studioprojects/LearnSemba/app/src/main/res/drawable-xxhdpi/konde2.png"
     }

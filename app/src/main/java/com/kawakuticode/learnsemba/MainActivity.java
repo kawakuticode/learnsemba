@@ -94,7 +94,7 @@ public class MainActivity extends FragmentActivity implements
         if (v.getId() == R.id.footer) {
 
             Intent i = new Intent(Intent.ACTION_VIEW,
-                    Uri.parse("https://play.google.com/store/apps/details?id=com.kawakuticode.learnsemba"));
+                    Uri.parse("https://www.facebook.com/kizombafr"));
             startActivity(i);
 
         }
