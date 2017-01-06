@@ -1,7 +1,0 @@
-#Fri Jan 06 09:37:02 CET 2017
-base.0=/Users/russeliusernestius/Documents/Studioprojects/LearnSemba/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_300f639ba22f3a2eddd3dfef9cb1646d376f95f5
-renamed.1=classes2.dex
-renamed.0=classes.dex
-file.1=/Users/russeliusernestius/Documents/Studioprojects/LearnSemba/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_5725ebb5d1f201dd63437c32db4388870e18ae9a/classes.dex
-base.1=/Users/russeliusernestius/Documents/Studioprojects/LearnSemba/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_5725ebb5d1f201dd63437c32db4388870e18ae9a
-file.0=/Users/russeliusernestius/Documents/Studioprojects/LearnSemba/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_300f639ba22f3a2eddd3dfef9cb1646d376f95f5/classes.dex
