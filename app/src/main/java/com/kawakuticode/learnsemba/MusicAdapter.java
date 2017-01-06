@@ -6,15 +6,12 @@ package com.kawakuticode.learnsemba;
 import java.util.ArrayList;
 
 import android.content.Context;
-import android.view.Gravity;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.ArrayAdapter;
 import android.widget.ImageView;
 import android.widget.TextView;
-
-import com.kawakuticode.learnsemba.MusicItem;
 
 /**
  * @author Russelius
@@ -26,7 +23,7 @@ public class MusicAdapter extends ArrayAdapter<MusicItem> {
 
 	public MusicAdapter(Context context, ArrayList<MusicItem> itemsArrayList) {
 
-		super(context, R.layout.music_list, itemsArrayList);
+		super(context, R.layout.music_row, itemsArrayList);
 
 		this.context = context;
 		this.itemsArrayList = itemsArrayList;
@@ -40,7 +37,7 @@ public class MusicAdapter extends ArrayAdapter<MusicItem> {
 				.getSystemService(Context.LAYOUT_INFLATER_SERVICE);
 
 		// 2. Get rowView from inflater
-		View rowView = inflater.inflate(R.layout.music_list, parent, false);
+		View rowView = inflater.inflate(R.layout.music_row, parent, false);
 
 		// 3. Get the two text view from the rowView
 		ImageView singerImage = (ImageView) rowView.findViewById(R.id.singer);

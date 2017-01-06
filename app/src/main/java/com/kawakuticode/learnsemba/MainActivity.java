@@ -19,7 +19,7 @@ public class MainActivity extends FragmentActivity implements
 
 
     // Tab titles
-    private String[] tabs = {"BEGINNER", "INTERMEDIATE", "ADVANCED","YOUTUBE CHANNEL", "MUSIC" };
+    private String[] tabs = {"BEGINNER", "INTERMEDIATE", "ADVANCED","YOUTUBE CHANNEL", };
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -30,6 +30,7 @@ public class MainActivity extends FragmentActivity implements
         // Initilization
         viewPager = (ViewPager) findViewById(R.id.pager);
         final ActionBar actionBar = getActionBar();
+        assert actionBar != null;
         actionBar.setNavigationMode(ActionBar.NAVIGATION_MODE_TABS);
         //actionBar = getActionBar();
         mAdapter = new TabsPageAdapter(getSupportFragmentManager());

@@ -20,7 +20,7 @@ public class VideoViewActivity extends Activity {
 	// Insert your Video URL
 	String VideoURL;
 
-	// = "http://www.androidbegin.com/tutorial/AndroidCommercial.3gp";
+
 
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {

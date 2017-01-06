@@ -8,6 +8,10 @@
         "source": "/Users/russeliusernestius/Documents/Studioprojects/LearnSemba/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/layout/abc_search_dropdown_item_icons_2line.xml"
     },
     {
+        "merged": "/Users/russeliusernestius/Documents/Studioprojects/LearnSemba/app/build/intermediates/res/merged/debug/layout/header_music_list.xml",
+        "source": "/Users/russeliusernestius/Documents/Studioprojects/LearnSemba/app/src/main/res/layout/header_music_list.xml"
+    },
+    {
         "merged": "/Users/russeliusernestius/Documents/Studioprojects/LearnSemba/app/build/intermediates/res/merged/debug/layout/abc_action_bar_up_container.xml",
         "source": "/Users/russeliusernestius/Documents/Studioprojects/LearnSemba/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/layout/abc_action_bar_up_container.xml"
     },
@@ -18,6 +22,10 @@
     {
         "merged": "/Users/russeliusernestius/Documents/Studioprojects/LearnSemba/app/build/intermediates/res/merged/debug/layout/support_simple_spinner_dropdown_item.xml",
         "source": "/Users/russeliusernestius/Documents/Studioprojects/LearnSemba/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/layout/support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "/Users/russeliusernestius/Documents/Studioprojects/LearnSemba/app/build/intermediates/res/merged/debug/layout/music_row.xml",
+        "source": "/Users/russeliusernestius/Documents/Studioprojects/LearnSemba/app/src/main/res/layout/music_row.xml"
     },
     {
         "merged": "/Users/russeliusernestius/Documents/Studioprojects/LearnSemba/app/build/intermediates/res/merged/debug/layout/design_navigation_item_header.xml",
@@ -130,6 +138,10 @@
     {
         "merged": "/Users/russeliusernestius/Documents/Studioprojects/LearnSemba/app/build/intermediates/res/merged/debug/layout/design_navigation_menu.xml",
         "source": "/Users/russeliusernestius/Documents/Studioprojects/LearnSemba/app/build/intermediates/exploded-aar/com.android.support/design/23.3.0/res/layout/design_navigation_menu.xml"
+    },
+    {
+        "merged": "/Users/russeliusernestius/Documents/Studioprojects/LearnSemba/app/build/intermediates/res/merged/debug/layout/video_row.xml",
+        "source": "/Users/russeliusernestius/Documents/Studioprojects/LearnSemba/app/src/main/res/layout/video_row.xml"
     },
     {
         "merged": "/Users/russeliusernestius/Documents/Studioprojects/LearnSemba/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view_list_item.xml",
@@ -246,9 +258,5 @@
     {
         "merged": "/Users/russeliusernestius/Documents/Studioprojects/LearnSemba/app/build/intermediates/res/merged/debug/layout/row_single.xml",
         "source": "/Users/russeliusernestius/Documents/Studioprojects/LearnSemba/app/src/main/res/layout/row_single.xml"
-    },
-    {
-        "merged": "/Users/russeliusernestius/Documents/Studioprojects/LearnSemba/app/build/intermediates/res/merged/debug/layout/music_list.xml",
-        "source": "/Users/russeliusernestius/Documents/Studioprojects/LearnSemba/app/src/main/res/layout/music_list.xml"
     }
 ]

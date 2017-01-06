@@ -4,15 +4,10 @@ package com.kawakuticode.learnsemba;
  * @author Russelius Ernestius
  */
 
-import android.annotation.SuppressLint;
 import android.app.ProgressDialog;
 import android.content.Context;
-import android.content.Intent;
 import android.os.AsyncTask;
-import android.os.Environment;
 import android.os.StrictMode;
-import android.util.Log;
-import android.view.SurfaceHolder;
 
 import java.io.BufferedInputStream;
 import java.io.File;

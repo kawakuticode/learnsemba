@@ -52,12 +52,12 @@
         "source": "/Users/russeliusernestius/Documents/Studioprojects/LearnSemba/app/src/main/res/drawable-mdpi/konde2.png"
     },
     {
-        "merged": "/Users/russeliusernestius/Documents/Studioprojects/LearnSemba/app/build/intermediates/res/merged/debug/drawable-mdpi/icone4s.png",
-        "source": "/Users/russeliusernestius/Documents/Studioprojects/LearnSemba/app/src/main/res/drawable-mdpi/icone4s.png"
-    },
-    {
         "merged": "/Users/russeliusernestius/Documents/Studioprojects/LearnSemba/app/build/intermediates/res/merged/debug/drawable-mdpi/base.png",
         "source": "/Users/russeliusernestius/Documents/Studioprojects/LearnSemba/app/src/main/res/drawable-mdpi/base.png"
+    },
+    {
+        "merged": "/Users/russeliusernestius/Documents/Studioprojects/LearnSemba/app/build/intermediates/res/merged/debug/drawable-mdpi/icone4s.png",
+        "source": "/Users/russeliusernestius/Documents/Studioprojects/LearnSemba/app/src/main/res/drawable-mdpi/icone4s.png"
     },
     {
         "merged": "/Users/russeliusernestius/Documents/Studioprojects/LearnSemba/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_launcher.png",

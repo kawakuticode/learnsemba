@@ -5,50 +5,52 @@
     density="420dpi"
     format="8"
     plugin-version="2.2.3"
-    timestamp="114371949841429"
+    timestamp="202485695236500"
     token="-5482317388325178396"
     verifier="COMPATIBLE" >
 
     <task
         name="javac"
-        duration="391" />
+        duration="725" />
     <task
         name="instant-run-dex"
-        duration="976" />
+        duration="814" />
     <task
         name="instant-run-transform"
-        duration="36" />
+        duration="99" />
     <task
         name="verifier"
-        duration="3" />
+        duration="7" />
 
     <artifact
         location="/Users/russeliusernestius/Documents/Studioprojects/LearnSemba/app/build/intermediates/reload-dex/debug/classes.dex"
         type="RELOAD_DEX" />
 
     <build
-        timestamp="20166091394445"
-        verifier="BINARY_MANIFEST_FILE_CHANGE" >
+        timestamp="190741388276934"
+        verifier="FULL_BUILD_REQUESTED" >
         <artifact
             location="/Users/russeliusernestius/Documents/Studioprojects/LearnSemba/app/build/outputs/apk/app-debug.apk"
             type="MAIN" />
     </build>
     <build
-        timestamp="114126643105531"
-        verifier="COLD_SWAP_REQUESTED" >
+        timestamp="201281334970282"
+        verifier="R_CLASS_CHANGE" >
+        <artifact
+            location="/Users/russeliusernestius/Documents/Studioprojects/LearnSemba/app/build/intermediates/instant-run-resources/resources-debug.ir.ap_"
+            type="RESOURCES" />
+        <artifact
+            location="/Users/russeliusernestius/Documents/Studioprojects/LearnSemba/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_7/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/russeliusernestius/Documents/Studioprojects/LearnSemba/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_4/classes.dex"
+            type="DEX" />
         <artifact
             location="/Users/russeliusernestius/Documents/Studioprojects/LearnSemba/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_8/classes.dex"
             type="DEX" />
     </build>
     <build
-        timestamp="114307600797540"
-        verifier="COMPATIBLE" >
-        <artifact
-            location="/Users/russeliusernestius/Documents/Studioprojects/LearnSemba/app/build/intermediates/builds/debug/114307600797540/classes.dex"
-            type="RELOAD_DEX" />
-    </build>
-    <build
-        timestamp="114371949841429"
+        timestamp="202485695236500"
         verifier="COMPATIBLE" >
         <artifact
             location="/Users/russeliusernestius/Documents/Studioprojects/LearnSemba/app/build/intermediates/reload-dex/debug/classes.dex"

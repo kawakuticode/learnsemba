@@ -3,7 +3,6 @@ package com.kawakuticode.learnsemba;
 import android.support.v4.app.Fragment;
 import android.support.v4.app.FragmentManager;
 import android.support.v4.app.FragmentPagerAdapter;
-import android.support.v4.app.ListFragment;
 
 /**
  * Created by Russelius on 02/02/15.
@@ -30,11 +29,11 @@ public class TabsPageAdapter  extends FragmentPagerAdapter {
 
             case 3:
                 // Video fragment activity
-                return new VideoFragment();
+                return new YoutubeFrag();
 
-            case 4:
+           /* case 4:
                 // Music fragment activity
-                return new MusicPlayFragment();
+                return new MusicPlayFragment();*/
 
         }
 
@@ -44,7 +43,7 @@ public class TabsPageAdapter  extends FragmentPagerAdapter {
     @Override
     public int getCount() {
         // get item count - equal to number of tabs
-        return 5;
+        return 4;
     }
 
 }

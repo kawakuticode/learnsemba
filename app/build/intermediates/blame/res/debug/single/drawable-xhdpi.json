@@ -52,12 +52,12 @@
         "source": "/Users/russeliusernestius/Documents/Studioprojects/LearnSemba/app/src/main/res/drawable-xhdpi/icones7.png"
     },
     {
-        "merged": "/Users/russeliusernestius/Documents/Studioprojects/LearnSemba/app/build/intermediates/res/merged/debug/drawable-xhdpi/ghomem.png",
-        "source": "/Users/russeliusernestius/Documents/Studioprojects/LearnSemba/app/src/main/res/drawable-xhdpi/ghomem.png"
-    },
-    {
         "merged": "/Users/russeliusernestius/Documents/Studioprojects/LearnSemba/app/build/intermediates/res/merged/debug/drawable-xhdpi/pause.png",
         "source": "/Users/russeliusernestius/Documents/Studioprojects/LearnSemba/app/src/main/res/drawable-xhdpi/pause.png"
+    },
+    {
+        "merged": "/Users/russeliusernestius/Documents/Studioprojects/LearnSemba/app/build/intermediates/res/merged/debug/drawable-xhdpi/ghomem.png",
+        "source": "/Users/russeliusernestius/Documents/Studioprojects/LearnSemba/app/src/main/res/drawable-xhdpi/ghomem.png"
     },
     {
         "merged": "/Users/russeliusernestius/Documents/Studioprojects/LearnSemba/app/build/intermediates/res/merged/debug/drawable-xhdpi/icones1.png",
